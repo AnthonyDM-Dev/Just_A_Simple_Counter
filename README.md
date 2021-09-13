@@ -12,7 +12,7 @@ Technology used behind this project:
 
 ## PDF Presentation
 Just in case you are reeeally bored today you can also have a look at this colorful PDF presentation:
-presentation file: "[Progetto-JavaScript-Basics-di-Anthony-Dei-Medici.pdf](https://github.com/AnthonyDM-Dev/DJongo-Trade_DJango-MongoDB_Project/blob/master/Progetto-Javascript-Basics-di-Anthony-Dei-Medici.pdf)"
+presentation file: "[Progetto-JavaScript-Basics-di-Anthony-Dei-Medici.pdf](https://github.com/AnthonyDM-Dev/Just_A_Simple_Counter/blob/main/Progetto-Javascript-Basics-di-Anthony-Dei-Medici.pdf)"
 
 ## Live repo!
 Try it in an instant by clicking on [here](https://anthonydm-dev.github.io/Just_A_Simple_Counter/).
