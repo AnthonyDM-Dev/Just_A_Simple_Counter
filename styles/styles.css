@@ -1,0 +1,96 @@
+#container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#counter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  margin: auto 10px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  color: white;
+  font-size: 2rem;
+}
+
+.button:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  -webkit-box-shadow: 2px 2px 2px #333333;
+  box-shadow: 2px 2px 2px #333333;
+  -webkit-transition: -webkit-box-shadow 0.2s;
+  transition: -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+  transition: box-shadow 0.2s, -webkit-box-shadow 0.2s;
+}
+
+.button__minus {
+  background-color: rgba(0, 47, 255, 0.76);
+}
+
+.button__plus {
+  background-color: rgba(255, 0, 0, 0.849);
+}
+
+.counter__input {
+  width: 100px;
+  height: 80px;
+  border: 1px solid grey;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.counter__input:hover {
+  cursor: pointer;
+}
+
+.submit {
+  width: 200px;
+  height: 50px;
+  background-color: #92BCEA;
+  margin: auto 10px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  font-size: 2rem;
+  /*color: white;*/
+  margin: 15px auto;
+}
+
+.submit:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  -webkit-box-shadow: 2px 2px 2px #333333;
+  box-shadow: 2px 2px 2px #333333;
+  -webkit-transition: -webkit-box-shadow 0.2s;
+  transition: -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+  transition: box-shadow 0.2s, -webkit-box-shadow 0.2s;
+}
+
+.textarea {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=styles.css.map */
